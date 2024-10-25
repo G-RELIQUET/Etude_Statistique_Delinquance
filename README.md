@@ -9,6 +9,7 @@ Les données de cette étude ont été récupérées le 30 septembre 2024.
 
 BRAINSTORMING
 Idées de ce qui peut être étudié : 
+- Pour une ville / département / région donnée il peut être intéressant de comparer les proportions de crimes et délits (exemple : on va chercher à voir avec un graphique les proportions de vols avec armes, meurtres, etc. dans un diagramme circulaire)
 - Pour une ville donnée, il peut être intéressant de mesurer les crimes et délits par rapport au reste de la France (histogramme ou barplot à voir). L'idée est de plus tard faire un streamlit pour que l'utilisateur puisse sélectionner de manière dynamique
 - Classement des régions / départements / villes les plus dangereuses en fonction du type de crime / délit 
 - Est-ce que les villes les plus dangereuses se trouvent dans les départements les plus dangeureux ?
