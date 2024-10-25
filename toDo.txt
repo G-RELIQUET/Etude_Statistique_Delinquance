@@ -1,4 +1,9 @@
 A faire : 
-Nettoyade des données : 
-- Vérifier l'uniformité des données (grace à la méthode unique) 
-ATTENTION : DONNEES CATEGORIELLES ET QUANTITATIVES !!!!!
+METTRE CE FICHIER EN CACHE et mettre le brainstorming du README dedans 
+Regarder sur le site data, il y a un autre fichier qui se dit complémentaire au df commune
+
+yearfirst ? Parce que là l'année c'est moche 
+
+Il serait super cool de mapper les résultats sur une carte de la France 
+
+Il va surement devoir être nécessaire de faire des groupby
