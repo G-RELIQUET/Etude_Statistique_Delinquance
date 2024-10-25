@@ -1,0 +1,4 @@
+A faire : 
+Nettoyade des données : 
+- Vérifier l'uniformité des données (grace à la méthode unique) 
+ATTENTION : DONNEES CATEGORIELLES ET QUANTITATIVES !!!!!
