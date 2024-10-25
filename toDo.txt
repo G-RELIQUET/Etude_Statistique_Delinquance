@@ -7,3 +7,20 @@ yearfirst ? Parce que là l'année c'est moche
 Il serait super cool de mapper les résultats sur une carte de la France 
 
 Il va surement devoir être nécessaire de faire des groupby
+
+BRAINSTORMING
+Idées de ce qui peut être étudié : 
+- Pour une ville / département / région donnée il peut être intéressant de comparer les proportions de crimes et délits (exemple : on va chercher à voir avec un graphique les proportions de vols avec armes, meurtres, etc. dans un diagramme circulaire)
+- Pour une ville donnée, il peut être intéressant de mesurer les crimes et délits par rapport au reste de la France (histogramme ou barplot à voir). L'idée est de plus tard faire un streamlit pour que l'utilisateur puisse sélectionner de manière dynamique
+- Classement des régions / départements / villes les plus dangereuses en fonction du type de crime / délit 
+- Est-ce que les villes les plus dangereuses se trouvent dans les départements les plus dangeureux ?
+- Il serait intéressant d'avoir une carte permettant de visualiser la dangerosité / le volume de crimes et délits (soit par des points de différentes tailles et couleurs soit par des applats de couleur)
+- Evolution de la délinquance au fil du temps : par type de crime et délits (donc par dangerosité)
+- Est-ce qu'il y a une évolution de la délinquance ? 
+
+Un autre objectif sous-jacent pourra être d'étudier l'évolution de la délinquance par type de crime et délit au fil du temps. 
+Il serait intéressant d'effectuer des prédictions sur leurs évolutions grâce à différents algorithmes de machine-learning si aplicable 
+
+
+NOTES : 
+Intéressant, dans les JSONs il y a plein d'informations sur les régions, departements ainsi que les coordonnées GPS !!!! 
