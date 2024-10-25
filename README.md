@@ -16,7 +16,14 @@ Idées de ce qui peut être étudié :
 - Il serait intéressant d'avoir une carte permettant de visualiser la dangerosité / le volume de crimes et délits (soit par des points de différentes tailles et couleurs soit par des applats de couleur)
 - Evolution de la délinquance au fil du temps : par type de crime et délits (donc par dangerosité)
 
-  Etudes des liens :
+Un autre objectif sous-jacent pourra être d'étudier l'évolution de la délinquance par type de crime et délit au fil du temps. 
+Il serait intéressant d'effectuer des prédictions sur leurs évolutions grâce à différents algorithmes de machine-learning si aplicable 
+
+
+Etudes des liens :
   En préambule, il faudra récupérer le parti du maire de la ville
   - Est-ce qu'il y a un lien / corrélation entre le parti du maire de la ville et la dangerosité de la ville ?
   L'idée sera de compléter les datasets par d'autres disponibles sur le site data.gouv.fr
+
+Ressources : 
+Tableau de correspondance anciennes - nouvelles régions 
