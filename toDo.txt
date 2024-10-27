@@ -25,3 +25,9 @@ Il serait intéressant d'effectuer des prédictions sur leurs évolutions grâce
 
 NOTES : 
 Intéressant, dans les JSONs il y a plein d'informations sur les régions, departements ainsi que les coordonnées GPS 
+NE PAS OUBLIER pour chaque graphique : 
+- Mettre un titre 
+- Légendes
+- Titre des axes 
+
+Il serait intéressant de fixer un thème pour seaborn dès le début
