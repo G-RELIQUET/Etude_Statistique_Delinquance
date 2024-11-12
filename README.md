@@ -1,4 +1,5 @@
 # Etude_Statistique_Delinquance
+
 Etude statistique sur la délinquance en France (régions, départements, villes)
 
 Cette étude se base sur des bases statistiques communales, départementales et régionales de la délinquance enregistrée par la police et la gendarmerie nationale.
@@ -12,3 +13,10 @@ La table de correspondances communes / codes est disponible sous l'url suivant :
 
 
 Les données de cette étude ont été récupérées le 30 septembre 2024. 
+
+------------------------------------------------------------------------------------------------------------------------
+Si vous souhaitez tester ce code de votre côté, je vous recommande vivement d'installer l'environnement virtuel disponible  dans le fichier requirements.txt. 
+
+Pour récupérer les librairies dans les versions correspondantes à partir d'un environnement vierge, il suffira de lancer :
+pip install -r requirements.txt
+------------------------------------------------------------------------------------------------------------------------
