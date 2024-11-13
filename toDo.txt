@@ -1,13 +1,9 @@
 A faire : 
 
-A voir si les statistiques exploratoires et lla détection des outliers n'est pas la même chose
+AVANT PUBLICATION EN PUBLIQUE : CHECK-LIST 
+- Vérifier que l'ensemble des graph ont une légende et titre des axes
+- Relire toutes les conclusion et explications pour les fautes d'orthographe 
 
-
-Regarder sur le site data, il y a un autre fichier qui se dit complémentaire au df commune
-
-Il serait super cool de mapper les résultats sur une carte de la France 
-
-Il va surement devoir être nécessaire de faire des groupby
 
 BRAINSTORMING
 Idées de ce qui peut être étudié : 
